@@ -5,3 +5,17 @@
 <p align="center">
 HideMePlease is a tool that can hide Phising web links into custom legitimate links (eg: facebook.com, instagram.com) by using ccTLD Disguise method. 
 </p>
+
+## Installation 
+
+```
+git clone https://github.com/krishealty/hidemeplease
+```
+
+```
+cd hidemeplease 
+```
+
+```
+bash hidemeplease.sh
+```
