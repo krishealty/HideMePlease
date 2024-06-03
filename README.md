@@ -19,3 +19,9 @@ cd hidemeplease
 ```
 bash hidemeplease.sh
 ```
+
+Find more about the tool in the [Medium article](https://medium.com/@krishealty/how-to-easily-convert-phising-links-into-legitimate-website-domains-5a8fbd4dbe5a)
+
+<p align="center">
+<img src="article.jpg" alt="article">
+</p>
